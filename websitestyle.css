@@ -1,0 +1,136 @@
+
+body{
+    background-color: black;
+}
+
+.carousel-inner > .item {
+    height: 400px;
+ }
+
+  h5, p {
+    color: black;
+    font-family: 'Luckiest Guy', cursive;
+  }
+
+  #carousel {
+    margin-top: 2%;
+    margin-left:30%;
+    margin-right: 30%;
+    margin-bottom: 30%;
+}
+
+.carousel-control-prev-icon, .carousel-control-next-icon {
+    height: 50px;
+    width: 50px;
+    background-color:rgba(158, 166, 172, 0.199);
+}
+
+.carousel-indicators {
+    background-color:rgba(158, 166, 172, 0.199);
+    text-align: right;
+    float: right;
+    right: 32%;
+    left: inherit;
+}
+
+h1 {
+    color: white;
+    font-family: 'Gelasio', serif;
+    font-size: 30px;
+    margin-top:5px;
+    margin-bottom:5px;
+    margin-left:5px;
+    margin-right:5px;
+    border: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+
+h2, h3 {
+    color:white;
+    font-family: 'Gelasio', serif;
+    font-size: 20px;
+    margin-top:20px;
+    margin-bottom:20px;
+    margin-left:20px;
+    margin-right:20px;
+    border: 1px;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+
+}
+
+em{
+    text-transform: uppercase;
+    font-style: initial;
+}
+
+.mylist{
+    color:white;
+     
+}
+
+ .mytable{
+    color:white; 
+    border-collapse: separate;
+}
+
+.hplink{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+
+}
+
+.center {
+    color: white;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    font-family: 'Gelasio', serif;
+  }
+
+  .small-image {
+    width:350px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+.white{
+color:white;
+font-family: 'Acme', sans-serif;
+  }
+
+  .custom-control-label, .custom-control-input{
+    color: white;
+    font-family: 'Acme', sans-serif;
+      }
+
+#first{
+    text-align:left;
+}
+#second{
+    text-align:right;
+}
+.left{
+    text-align: left;
+}
+.tacos{
+    color:green;
+}
+.big{
+    font-size: 32px;
+}
+p.tacos .big{
+    font-size: 48px;
+}
+
